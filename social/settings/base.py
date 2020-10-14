@@ -16,6 +16,7 @@ INSTALLED_APPS = [
 
     'core.apps.CoreConfig',
     'home.apps.HomeConfig',
+    'tweets.apps.TweetsConfig',
 ]
 
 MIDDLEWARE = [
